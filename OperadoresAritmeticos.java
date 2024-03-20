@@ -15,7 +15,6 @@ public static void main(String[] args){
     System.out.println("Divisão: " + divisao);
     System.out.println("Resto: " + resto);
 
-
 }
 
 }

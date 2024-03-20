@@ -1,0 +1,18 @@
+public class Exercicio1{
+    public static void main (Strind[] args){
+        double numero = 10
+        if (numero < 0){
+            System.out.printIn("negativo");
+        }else if (numero > 0){
+            System.out.printIn("positivo");
+            }else{
+                System.out.printIn("negativo").
+        }
+
+        }
+    }
+}
+    
+    
+
+}
